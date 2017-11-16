@@ -6,7 +6,7 @@ import soundsList from './sounds/soundsList'
 import selfGreeting from './greeting/selfGreeting';
 import userGreeting from './greeting/userGreeting';
 import answer from './greeting/answer';
-import { karmaMinus, karmaPlus, MINUS_TRIGGERS, PLUS_TRIGGERS, topLaddera } from './karma/index';
+import { karmaMinus, karmaPlus, MINUS_TRIGGERS, PLUS_TRIGGERS, topUsers } from './karma/index';
 import { limiter } from './utils';
 import {connectionMiddleware, getConnection} from './db/connection';
 
