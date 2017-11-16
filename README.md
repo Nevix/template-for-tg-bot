@@ -1,2 +1,2 @@
 # template-for-tg-bot
-I think will be useful to create a template for bots in Telegram
+When I find the time, I'll describe the algorithm for starting this all.
